@@ -10,7 +10,6 @@
 ---
 
 ## 2. 시스템 아키텍처 구성도
-![시스템 아키텍처 다이어그램](./images/architecture-v1.png)
 ```mermaid
 flowchart TD
     subgraph Client
